@@ -4,106 +4,106 @@
 	},
 
 	"extensionDescription": {
-		"message": "Adds an option to the context menu to reverse search an image on various services"
+		"message": "Ajoute une option au menu contextuel pour éffectuer une recherche inversée d'une image sur une variété de services"
 	},
 
 	"contextMenuTitle": {
-		"message": "Reverse Image Search"
+		"message": "Recherche inversée d'image"
 	},
 
 	"openInBackgroundLabel": {
-		"message": "Open in background"
+		"message": "Ouvrir en arrière-plan"
 	},
 
 	"optionsPageTitle": {
-		"message": "Options"
+		"message": "Réglages"
 	},
 
 	"openTabAtLabel": {
-		"message": "Open the Search page"
+		"message": "Ouvrir la page de recherche"
 	},
 
 	"openTabAtRight": {
-		"message": "Right to the current tab"
+		"message": "A droite de l'onglet actuel"
 	},
 
 	"openTabAtLeft": {
-		"message": "Left to the current tab"
+		"message": "A gauche de l'onglet actuel"
 	},
 
 	"openTabAtEnd": {
-		"message": "At the end"
+		"message": "A la fin"
 	},
 
 	"searchProviderLabel": {
-		"message": "Search provider"
+		"message": "Fournisseur de recherche"
 	},
 
 	"providerNamePlaceholder": {
-		"message": "2-15 letters without space"
+		"message": "2-15 lettres sans espace"
 	},
 
 	"providerURLPlaceholder": {
-		"message": "http(s):// at begin and %s for image url..."
+		"message": "http(s):// au début et %s pour l'url de l'image..."
 	},
 
 	"addSearchProvider": {
-		"message": "Add Provider"
+		"message": "Ajouter fournisseur"
 	},
 
 	"restoreDefaultSearchProviders": {
-		"message": "Restore Default"
+		"message": "Restaurer par défaut"
 	},
 
 	"providerNamePlaceholderError": {
-		"message": "The name of $index$ provider is invalid. Please use 2-15 letters without space",
+		"message": "Le nom du fournisseur $index$ est invalide. Merci d'utiliser 2-15 lettres sans espace",
 		"placeholders": {
 			"index": {
 				"content": "$1",
-				"description": "Modified options/options.js#i18nOrdinal if need"
+				"description": "options/options.js modifié#i18nOrdinal si besoin"
 			}
 		}
 	},
 
 	"providerURLPlaceholderError": {
-		"message": "The url of $index$ provider is invalid. Use http(s):// at begin and %s as placeholder for image url.",
+		"message": "L'URL du fournisseur $index$ est invalide. Utiliser http(s):// au début et %s en tant qu'emplacement pour l'URL de l'image.",
 		"placeholders": {
 			"index": {
 				"content": "$1",
-				"description": "Modified options/options.js#i18nOrdinal if need"
+				"description": "options/options.js modifié#i18nOrdinal si besoin"
 			}
 		}
 	},
 
 	"saveOptions": {
-		"message": "Save Options"
+		"message": "Enregistrer réglages"
 	},
 
 	"msgAtLeastOneSearchProvider": {
-		"message": "Please choose at least one search provider!"
+		"message": "Merci de choisir au moins un fournisseur de recherche!"
 	},
 
 	"msgExistEditingSearchProviders": {
-		"message": "Some search provider is editing! Click ✓ to finish editing."
+		"message": "Un fournisseur de recherche est en train d'éditer ! Cliquez sur ✓ pour terminer l'édition."
 	},
 
 	"msgDuplicatedProviderName": {
-		"message": "Some search provider name duplicated!"
+		"message": "Un nom de fournisseur de recherche dupliqué !"
 	},
 
 	"msgIconUploadNotImage": {
-		"message": "Please upload available image format! (png, jpg, ico)"
+		"message": "Veuillez télécharger un format d'image disponible ! (png, jpg, ico)"
 	},
 
 	"msgIconUploadNotSquareImage": {
-		"message": "Please upload square image!"
+		"message": "Merci de télécharger une image carrée"
 	},
 
 	"msgSuccessSaveOptions": {
-		"message": "Saved!"
+		"message": "Enregistrée!"
 	},
 
 	"contextMenuOpenAll": {
-		"message": "Open All"
+		"message": "Tout ouvrir"
 	}
 }
